@@ -4,10 +4,14 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/github/followers/MePrince47?style=social">
-  <img src="https://img.shields.io/badge/Follow-%40MePrince47-ff69b4?style=social&logo=instagram">
+  <a href="https://github.com/MePrince47"><img src="https://img.shields.io/github/followers/MePrince47?style=social"></a>
+  <a href="https://www.youtube.com/channel/UCTK766ZFwwU8XnAgi_-NuAw?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCTK766ZFwwU8XnAgi_-NuAw?style=social"></a>
+  <a href="https://www.instagram.com/e.j_wilfried/"><img src="https://img.shields.io/badge/Follow-%40e.j_wilfried-ff69b4?style=social&logo=instagram"></a>
 </div>
 </p>
+
+
+
 
 <p>
 <div align="center">
@@ -54,17 +58,18 @@
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	<a href="https://linkedin.com/in/brice-kouam-5113b8262" rel="nofollow">
+	<a href="https://www.linkedin.com/in/joseph-ewondjo/" rel="nofollow">
 	 	<img alt="MePrince47's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
 	</a>
-	<a href="https://www.instagram.com/briso_dev/" rel="nofollow">
+	<a href="https://www.instagram.com/e.j_wilfried/" rel="nofollow">
   		<img alt="MePrince47's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" style="max-width: 100%;">
 	</a>
-	<a href="https://fb.com/brice.kouam.71" rel="nofollow">
-  		<img alt="MePrince47's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" style="max-width: 100%;">
+	<a href="https://wa.me/message/J7PG4R6GCQ6ED1" rel="nofollow">
+  		<img alt="MePrince47's WhatsApp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" style="max-width: 100%;">
 	</a>
 </div>
 </p>
+
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
