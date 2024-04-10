@@ -10,6 +10,13 @@
 </div>
 </p>
 
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+</p>
 
 
 
