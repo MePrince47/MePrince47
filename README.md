@@ -85,7 +85,12 @@
 <br/>
 <p align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MePrince47&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MePrince47&theme=radical&hide_border=true">		  
+    <p align="center">
+  <a href="https://github.com/MePrince47">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MePrince47&theme=radical">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MePrince47&theme=radical">
+  </a>
+</p>	  
 </p>
 <br>
 
