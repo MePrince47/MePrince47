@@ -79,7 +79,7 @@ Je transforme des lignes de code en expériences utilisateur. Expert en **Flutte
 
 ## 🤝 Connect & Collaborate
 <div align="center">
-  <a href="https://wa.me/message/J7PG4R6GCQ6ED1" target="_blank">
+  <a href="https://wa.me/message/YT2N7AQFOTFCE1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/joseph-ewondjo/" target="_blank">
