@@ -9,9 +9,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/MePrince47?label=Followers&style=for-the-badge&color=24292e&logo=github" />
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCCTK766ZFwwU8XnAgi_-NuAw?style=for-the-badge&label=Subscribers&color=red" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCTK766ZFwwU8XnAgi_-NuAw?style=for-the-badge&label=Subscribers&color=red&logo=youtube" />
 </p>
-
 ---
 
 ## 🚀 À propos de moi
